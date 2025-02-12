@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "date": "2024.10.2",
+    "stockName": "삼성",
+    "quantity": 4,
+    "purchasePrice": 5250,
+    "currentPrice": 5500
+  },
+  {
+    "id": 2,
+    "date": "2024.10.22",
+    "stockName": "네이버",
+    "quantity": 1,
+    "purchasePrice": 5600,
+    "currentPrice": 5500
+  },
+  {
+    "id": 3,
+    "date": "2024.11.10",
+    "stockName": "SK",
+    "quantity": 2,
+    "purchasePrice": 5500,
+    "currentPrice": 5500
+  },
+  {
+    "id": 4,
+    "date": "2025.02.03",
+    "stockName": "LG",
+    "quantity": 1,
+    "purchasePrice": 100,
+    "currentPrice": 1100
+  },
+  {
+    "date": "02.05",
+    "stockName": "카카오",
+    "quantity": 1,
+    "purchasePrice": 900,
+    "id": 5,
+    "curren tPrice": 5500
+  },
+  {
+    "date": "02.05",
+    "stockName": "삼성물산",
+    "quantity": 4,
+    "purchasePrice": 925,
+    "id": 6
+  },
+  {
+    "date": "02.05",
+    "stockName": "스타벅스",
+    "quantity": 5,
+    "purchasePrice": 150,
+    "id": 7
+  },
+  {
+    "date": "02.08",
+    "stockName": "한국화학",
+    "quantity": 6,
+    "purchasePrice": 733,
+    "id": 8
+  },
+  {
+    "date": "02.08",
+    "stockName": "신세계",
+    "quantity": 4,
+    "purchasePrice": 750,
+    "id": 9
+  }
+]

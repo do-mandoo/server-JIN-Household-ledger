@@ -1,0 +1,127 @@
+{
+  "algoRecommendations": [
+    {
+      "algoVersion": "algo_v1",
+      "stockRecommendations": [
+        {
+          "stockName": "삼성",
+          "algoAdvise": "추천(20%)"
+        },
+        {
+          "stockName": "한화",
+          "algoAdvise": "추천(40%)"
+        },
+        {
+          "stockName": "네이버",
+          "algoAdvise": "추천(60%)"
+        },
+        {
+          "stockName": "SK",
+          "algoAdvise": "추천(80%)"
+        },
+        {
+          "stockName": "SPC",
+          "algoAdvise": "추천(30%)"
+        },
+        {
+          "stockName": "카카오",
+          "algoAdvise": "추천(10%)"
+        },
+        {
+          "stockName": "LG",
+          "algoAdvise": "추천(90%)"
+        },
+        {
+          "stockName": "KIA",
+          "algoAdvise": "추천(50%)"
+        },
+        {
+          "stockName": "KT&G",
+          "algoAdvise": "추천(10%)"
+        }
+      ]
+    },
+    {
+      "algoVersion": "algo_v2",
+      "stockRecommendations": [
+        {
+          "stockName": "삼성",
+          "algoAdvise": "추천(10%)"
+        },
+        {
+          "stockName": "한화",
+          "algoAdvise": "추천(80%)"
+        },
+        {
+          "stockName": "네이버",
+          "algoAdvise": "추천(70%)"
+        },
+        {
+          "stockName": "SK",
+          "algoAdvise": "추천(40%)"
+        },
+        {
+          "stockName": "SPC",
+          "algoAdvise": "추천(30%)"
+        },
+        {
+          "stockName": "카카오",
+          "algoAdvise": "추천(20%)"
+        },
+        {
+          "stockName": "LG",
+          "algoAdvise": "추천(10%)"
+        },
+        {
+          "stockName": "KIA",
+          "algoAdvise": "추천(80%)"
+        },
+        {
+          "stockName": "KT&G",
+          "algoAdvise": "추천(50%)"
+        }
+      ]
+    },
+    {
+      "algoVersion": "algo_v3",
+      "stockRecommendations": [
+        {
+          "stockName": "삼성",
+          "algoAdvise": "추천(50%)"
+        },
+        {
+          "stockName": "한화",
+          "algoAdvise": "추천(40%)"
+        },
+        {
+          "stockName": "네이버",
+          "algoAdvise": "추천(80%)"
+        },
+        {
+          "stockName": "SK",
+          "algoAdvise": "추천(70%)"
+        },
+        {
+          "stockName": "SPC",
+          "algoAdvise": "추천(30%)"
+        },
+        {
+          "stockName": "카카오",
+          "algoAdvise": "추천(30%)"
+        },
+        {
+          "stockName": "LG",
+          "algoAdvise": "추천(80%)"
+        },
+        {
+          "stockName": "KIA",
+          "algoAdvise": "추천(10%)"
+        },
+        {
+          "stockName": "KT&G",
+          "algoAdvise": "추천(30%)"
+        }
+      ]
+    }
+  ]
+}

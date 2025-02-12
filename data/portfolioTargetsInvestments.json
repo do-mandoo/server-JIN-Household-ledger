@@ -1,0 +1,68 @@
+{
+  "GNDRecommendations":[
+    {
+      "GNDAlgoVersion": "algo_v1",
+      "data":[
+        {
+          "GNDStockName":" 삼성",
+          "GNDPurchasePrice": 50000,
+          "GNDCurrentPrice": 55555,
+          "GNDGoalPrice": 66666,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":" 한화",
+          "GNDPurchasePrice": 33,
+          "GNDCurrentPrice": 55,
+          "GNDGoalPrice": 66,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":" SK",
+          "GNDPurchasePrice": 444,
+          "GNDCurrentPrice": 44,
+          "GNDGoalPrice": 666,
+          "GNDGoalDay": "1달"
+        }
+      ]
+    },
+    {
+      "GNDAlgoVersion": "algo_v2",
+      "data":[
+        {
+          "GNDStockName":" 삼성",
+          "GNDPurchasePrice": 50000,
+          "GNDCurrentPrice": 55555,
+          "GNDGoalPrice": 66666,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":" 한화",
+          "GNDPurchasePrice": 33,
+          "GNDCurrentPrice": 55,
+          "GNDGoalPrice": 66,
+          "GNDGoalDay": "1달"
+        }
+      ]
+    },
+    {
+      "GNDAlgoVersion": "algo_v3",
+      "data":[
+        {
+          "GNDStockName":" 삼성",
+          "GNDPurchasePrice": 40000,
+          "GNDCurrentPrice": 44555,
+          "GNDGoalPrice": 55566,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":" 한화",
+          "GNDPurchasePrice": 23,
+          "GNDCurrentPrice": 45,
+          "GNDGoalPrice": 56,
+          "GNDGoalDay": "1달"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2024.10.2",
+    "stockName": "KIA",
+    "quantity": 2,
+    "purchasePrice": 4050,
+    "currentPrice": 5500
+  },
+  {
+    "date": "2024.10.22",
+    "stockName": "KT&G",
+    "quantity": 1,
+    "purchasePrice": 3400,
+    "currentPrice": 5500
+  }
+]

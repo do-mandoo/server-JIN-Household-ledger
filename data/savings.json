@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "date": "10.10",
+    "details": "옆돌기 재롱부리기",
+    "amount": 2000,
+    "category": "저축/보험 > 기타"
+  },
+  {
+    "id": 2,
+    "date": "10.11",
+    "details": "설거지",
+    "amount": 5000,
+    "category": "부수입 > 기타"
+  },
+  {
+    "id": 3,
+    "date": "10.12",
+    "details": "심부름",
+    "amount": 1000,
+    "category": "부수입 > 기타"
+  },
+  {
+    "id": 4,
+    "date": "10.15",
+    "details": "용돈",
+    "amount": 10000,
+    "category": "주수입 > 기타"
+  },
+  {
+    "date": "10.16",
+    "details": "그냥",
+    "amount": 50000,
+    "category": "주수입>기타",
+    "id": 5
+  },
+  {
+    "date": "10.16",
+    "details": "그냥ㅁㄴㅇㄹ",
+    "amount": 50000,
+    "category": "주수입>기타",
+    "id": 6
+  },
+  {
+    "date": "01.20",
+    "details": "그냥",
+    "amount": 50000,
+    "category": "주수입>기타",
+    "id": 7
+  },
+  {
+    "date": "01.22",
+    "details": "이자",
+    "amount": 800,
+    "category": "부수입>기타",
+    "id": 8
+  },
+  {
+    "date": "01.25",
+    "details": "ㅁ",
+    "amount": 64200,
+    "category": "부수입>기타",
+    "id": 9
+  },
+  {
+    "date": "01.30",
+    "details": "테스트11",
+    "amount": 50000,
+    "category": "주수입>이자",
+    "id": 12
+  },
+  {
+    "date": "01.30",
+    "details": "이자",
+    "amount": 800,
+    "category": "부수입>이자",
+    "id": 13
+  }
+]

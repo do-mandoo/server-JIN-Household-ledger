@@ -1,0 +1,40 @@
+{
+  "category": {
+    "식비": {
+      "totalBudget": 200
+    },
+    "주거/통신": {
+      "totalBudget": 100
+    },
+    "생활용품": {
+      "totalBudget": 200
+    },
+    "의복/미용": {
+      "totalBudget": 300
+    },
+    "건강/문화": {
+      "totalBudget": 0
+    },
+    "교육/육아": {
+      "totalBudget": 0
+    },
+    "교통/차량": {
+      "totalBudget": 0
+    },
+    "경조사/회비": {
+      "totalBudget": 0
+    },
+    "세금/이자": {
+      "totalBudget": 0
+    },
+    "용돈/기타": {
+      "totalBudget": 300000
+    },
+    "저축/보험": {
+      "totalBudget": 0
+    },
+    "카드 대금": {
+      "totalBudget": 0
+    }
+  }
+}
