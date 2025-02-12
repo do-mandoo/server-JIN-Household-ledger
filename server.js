@@ -4,13 +4,6 @@ const path = require('path');
 
 const app = express();
 
-// // CORS 허용
-// app.use(cors());
-// // app.use(cors({ origin: 'http://localhost:3000' })); // 클라이언트 URL을 허용
-
-// // JSON 요청 파싱
-// app.use(express.json());
-
 // CORS 허용 (특정 클라이언트만 허용)
 app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
 
@@ -25,6 +18,7 @@ const personalExpensesRoutes = require('./routes/personalExpenses');
 const havingStocksRoutes = require('./routes/havingStocks');
 const adviseStocksRoutes = require('./routes/adviseStocks');
 const maxiWeightSettingRoutes = require('./routes/maxiWeightSetting');
+const portfolioTargetsInvestmentsRoutes = require('./routes/portfolioTargetsInvestments');
 const categoryBudgetSettingRoutes = require('./routes/categoryBudgetSetting');
 
 app.use('/savings', savingsRoutes); // 수입
@@ -32,7 +26,8 @@ app.use('/publicExpenses', publicExpensesRoutes); // 지출 - 공금 지출
 app.use('/personalExpenses', personalExpensesRoutes); // 지출 - 개인 지출
 app.use('/havingStocks', havingStocksRoutes); // 투자 - 보유 주식
 app.use('/adviseStocks', adviseStocksRoutes); // 투자 - 관심 목록
-app.use('/maxiWeightSetting', maxiWeightSettingRoutes); // 분석 - 투자()
+app.use('/maxiWeightSetting', maxiWeightSettingRoutes); // 분석 - 투자(최대 비중 설정)
+app.use('/portfolioTargetsInvestments', portfolioTargetsInvestmentsRoutes); // 분석 - 투자(현재 목표설정)
 app.use('/categoryBudgetSetting', categoryBudgetSettingRoutes); // 분석 - 지출(예산 설정)
 
 // 기본 라우트

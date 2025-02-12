@@ -4,24 +4,87 @@
       "GNDAlgoVersion": "algo_v1",
       "data":[
         {
-          "GNDStockName":" 삼성",
+          "GNDStockName":"삼성",
           "GNDPurchasePrice": 50000,
           "GNDCurrentPrice": 55555,
           "GNDGoalPrice": 66666,
           "GNDGoalDay": "1달"
         },
         {
-          "GNDStockName":" 한화",
+          "GNDStockName":"한화",
           "GNDPurchasePrice": 33,
           "GNDCurrentPrice": 55,
           "GNDGoalPrice": 66,
           "GNDGoalDay": "1달"
         },
         {
-          "GNDStockName":" SK",
+          "GNDStockName":"SK",
           "GNDPurchasePrice": 444,
           "GNDCurrentPrice": 44,
-          "GNDGoalPrice": 666,
+          "GNDGoalPrice": 667,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"LG",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"SPC",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"카카오",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KIA",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KT&G",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"네이버",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"신세계",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"한국화학",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"삼성물산",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
           "GNDGoalDay": "1달"
         }
       ]
@@ -30,17 +93,87 @@
       "GNDAlgoVersion": "algo_v2",
       "data":[
         {
-          "GNDStockName":" 삼성",
-          "GNDPurchasePrice": 50000,
-          "GNDCurrentPrice": 55555,
-          "GNDGoalPrice": 66666,
+          "GNDStockName":"삼성",
+          "GNDPurchasePrice": 30000,
+          "GNDCurrentPrice": 33333,
+          "GNDGoalPrice": 55555,
           "GNDGoalDay": "1달"
         },
         {
-          "GNDStockName":" 한화",
-          "GNDPurchasePrice": 33,
+          "GNDStockName":"한화",
+          "GNDPurchasePrice": 44,
+          "GNDCurrentPrice": 66,
+          "GNDGoalPrice": 77,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"SK",
+          "GNDPurchasePrice": 555,
           "GNDCurrentPrice": 55,
-          "GNDGoalPrice": 66,
+          "GNDGoalPrice": 777,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"LG",
+          "GNDPurchasePrice": 333,
+          "GNDCurrentPrice": 66,
+          "GNDGoalPrice": 777,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"SPC",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"카카오",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KIA",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KT&G",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"네이버",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"신세계",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"한국화학",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"삼성물산",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
           "GNDGoalDay": "1달"
         }
       ]
@@ -49,17 +182,87 @@
       "GNDAlgoVersion": "algo_v3",
       "data":[
         {
-          "GNDStockName":" 삼성",
+          "GNDStockName":"삼성",
           "GNDPurchasePrice": 40000,
           "GNDCurrentPrice": 44555,
           "GNDGoalPrice": 55566,
           "GNDGoalDay": "1달"
         },
         {
-          "GNDStockName":" 한화",
+          "GNDStockName":"한화",
           "GNDPurchasePrice": 23,
           "GNDCurrentPrice": 45,
           "GNDGoalPrice": 56,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"SK",
+          "GNDPurchasePrice": 677,
+          "GNDCurrentPrice": 55,
+          "GNDGoalPrice": 888,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"LG",
+          "GNDPurchasePrice": 44,
+          "GNDCurrentPrice": 212,
+          "GNDGoalPrice": 644,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"SPC",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"카카오",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KIA",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"KT&G",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"네이버",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"신세계",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"한국화학",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
+          "GNDGoalDay": "1달"
+        },
+        {
+          "GNDStockName":"삼성물산",
+          "GNDPurchasePrice": 222,
+          "GNDCurrentPrice": 555,
+          "GNDGoalPrice": 676,
           "GNDGoalDay": "1달"
         }
       ]

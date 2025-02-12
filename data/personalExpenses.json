@@ -3,34 +3,34 @@
     "id": 1,
     "date": "10.08",
     "details": "아이스크림 할인점",
-    "amount": 28000,
+    "amount": 800,
     "category": "식비 > 간식"
   },
   {
     "id": 5,
     "date": "10.29",
     "details": "택시",
-    "amount": 8200,
+    "amount": 820,
     "category": "교통/차량 > 대중교통비"
   },
   {
     "date": "01.27",
     "details": "개인지출 테스트",
-    "amount": 50000,
+    "amount": 500,
     "category": "식비 > 기타",
     "id": 6
   },
   {
     "date": "01.28",
     "details": "테스트1123",
-    "amount": 8500,
+    "amount": 850,
     "category": "교육/육아 > 기타",
     "id": 8
   },
   {
     "date": "01.30",
     "details": "ㅁㄴㅇㄹ",
-    "amount": 400000,
+    "amount": 400,
     "category": "용돈/기타 > 기타",
     "id": 10
   }

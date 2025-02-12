@@ -59,7 +59,7 @@
     "date": "01.27",
     "details": "상위컴포넌트 테스트",
     "amount": 800,
-    "category": "세금 > 테스트",
+    "category": "세금/이자 > 테스트",
     "isSettled": false,
     "id": 8
   },
@@ -67,7 +67,7 @@
     "date": "01.28",
     "details": "테스트1",
     "amount": 900,
-    "category": "용돈 > 테스트",
+    "category": "용돈/기타 > 테스트",
     "isSettled": true,
     "id": 9
   },
@@ -75,7 +75,7 @@
     "date": "01.28",
     "details": "테스트1",
     "amount": 1000,
-    "category": "저축 > 기타",
+    "category": "저축/보험 > 기타",
     "isSettled": false,
     "id": 10
   },
@@ -83,7 +83,7 @@
     "date": "01.28",
     "details": "테스트3",
     "amount": 1100,
-    "category": "용돈 > 테스트",
+    "category": "용돈/기타 > 테스트",
     "isSettled": "true",
     "id": 11
   },

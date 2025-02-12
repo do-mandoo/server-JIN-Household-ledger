@@ -8,16 +8,13 @@ const ADVISE_FILE = path.join(__dirname, '../data/adviseStocks.json'); // 알고
 const INTERESTED_FILE = path.join(__dirname, '../data/interestedStocks.json'); // 사용자가 추가한 관심 주식
 const HAVING_FILE = path.join(__dirname, '../data/havingStocks.json'); // 보유 중인 주식 목록
 
-// ✅ GET - 알고리즘 추천 데이터 + 사용자가 추가한 관심 주식 데이터 반환
+// GET - 알고리즘 추천 데이터 + 사용자가 추가한 관심 주식 데이터 반환
 router.get('/', (req, res) => {
   try {
     const advise = JSON.parse(fs.readFileSync(ADVISE_FILE, 'utf8'));
     const interested = JSON.parse(fs.readFileSync(INTERESTED_FILE, 'utf8'));
 
-    // // 🔥 서버에서 데이터 확인
-    // console.log('📢 서버에서 불러온 advise:', advise.stockRecommendations); // undefined
-
-    // 🔥 데이터가 undefined인지 확인
+    // 데이터가 undefined인지 확인
     if (!advise || !advise.algoRecommendations) {
       console.error('❌ 서버에서 adviseData가 undefined!');
       return res.status(500).json({ error: 'Failed to load adviseStocks data' });
@@ -32,7 +29,7 @@ router.get('/', (req, res) => {
   }
 });
 
-// ✅ POST - 관심 주식 추가 (interestedStocks.json에 저장)
+// POST - 관심 주식 추가 (interestedStocks.json에 저장)
 router.post('/', (req, res) => {
   const newStock = req.body;
 
@@ -76,7 +73,7 @@ router.post('/', (req, res) => {
   }
 });
 
-// ✅ DELETE - 관심 주식 삭제 (interestedStocks.json에서 삭제)
+// DELETE - 관심 주식 삭제 (interestedStocks.json에서 삭제)
 router.delete('/', (req, res) => {
   const { stockName } = req.body;
 
